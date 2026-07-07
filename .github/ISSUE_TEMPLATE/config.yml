@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: General Questions & Ideas
+    url: https://github.com/ranjithrajv/awesome-timeline-explorers/discussions
+    about: Use GitHub Discussions for feature ideas, general chat, or questions

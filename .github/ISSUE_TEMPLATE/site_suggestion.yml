@@ -1,0 +1,58 @@
+name: Suggest a New Site
+description: Propose a new interactive timeline explorer to add to the list
+title: "[Add]: "
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a new addition! Please check the [criteria](https://github.com/ranjithrajv/awesome-timeline-explorers/blob/main/CONTRIBUTING.md#criteria-for-inclusion) first.
+
+  - type: input
+    id: name
+    attributes:
+      label: Site Name
+      placeholder: e.g. MyRetroTVs Network
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      placeholder: https://example.com
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Suggested Category
+      options:
+        - Retro TV Simulators
+        - Historical Map Explorers
+        - Media Archives
+        - Digital Nostalgia & Era Interfaces
+        - Create Similar Timeline Explorers
+        - Specialized Archives
+        - Cultural Heritage Collections
+        - New Category (describe below)
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Briefly describe the site and why it fits the timeline/explorer theme
+      placeholder: This site lets you browse historical weather satellite imagery with a year slider...
+    validations:
+      required: true
+
+  - type: textarea
+    id: fit
+    attributes:
+      label: Criteria Fit
+      description: How does this site meet the inclusion criteria? (free access, interactive timelines/sliders, serendipitous discovery, authentic experience)
+    validations:
+      required: true

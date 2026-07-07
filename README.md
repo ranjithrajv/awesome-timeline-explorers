@@ -34,6 +34,10 @@ These websites recreate past media, maps, and digital experiences through intera
 
 - [80s MyRetroTVs](https://80s.myretrotvs.com/) 🎬🎵🎮📱 - Dedicated 1980s television experience with randomized channels, time tracking, genre filters, and authentic commercials from the era.
 
+- [My90sTV](https://90s.myretrotvs.com/) 🎬🎵🎮📱 - Dedicated 1990s television experience with decade-specific programming, authentic commercials, and period-appropriate channel surfing through the era of dial-up and grunge.
+
+- [My2000sTV](https://y2k.myretrotvs.com/) 🎬🎵🎮📱 - Dedicated Y2K-era television experience capturing the transition from analog to digital with early 2000s programming, commercials, and turn-of-the-millennium culture.
+
 ---
 
 ## Historical Map Explorers
@@ -58,6 +62,8 @@ These websites recreate past media, maps, and digital experiences through intera
 
 - [The Timemaps Atlas of World History](https://timemaps.com/) 📝🎮📱 - Provides over 1,000 maps covering world history, allowing users to explore different regions, countries, and civilizations through time.
 
+- [American Panorama](https://dsl.richmond.edu/panorama/) 📝🎮📱 - Interactive historical atlas of the United States with time-lapse maps, layered demographic data, and visual deep dives into migration, redistricting, and environmental change.
+
 ---
 
 ## Media Archives
@@ -69,6 +75,12 @@ These websites recreate past media, maps, and digital experiences through intera
 - [Old Radio World](https://www.oldradioworld.com/) 🎵📝🎮 - An archive of old-time radio shows from the 1930s, 40s, and 50s, allowing users to browse by genre and listen to MP3s of the original broadcasts.
 
 - [RadioEchoes.com](https://www.radioechoes.com/) 🎵📝🎮 - A vast collection of over 126,000 episodes of Old Time Radio shows across 21 genres, available for instant play.
+
+- [British Pathé](https://www.britishpathe.com/) 🎬📝🎮📱 - Over 85,000 historical newsreels from 1896–1976 with decade-based browsing, allowing serendipitous discovery of 20th-century history through authentic news footage.
+
+- [BBC Archive](https://www.bbc.co.uk/archive) 🎬🎵📝🎮📱 - Curated historical programming from the BBC with era-specific browsing by decade, featuring classic television, radio, and documentary content spanning the 1930s to today.
+
+- [National Film Board of Canada](https://www.nfb.ca/) 🎬📝🎮📱 - Thousands of Canadian documentaries, animations, and interactive stories with timeline exploration and curated collections spanning the 1940s to the present.
 
 ---
 
@@ -92,6 +104,20 @@ These websites recreate past media, maps, and digital experiences through intera
 
 - [oocities.org](https://oocities.org/) 🎬📝🎮📱 - A mirror that hosts archived GeoCities content, allowing users to browse and experience websites from the now-defunct service.
 
+- [Poolside FM](https://poolside.fm/) 🎵🎮📱 - Synthwave radio station with a retro MacOS interface, complete with era-appropriate window management, system fonts, and a curated lo-fi soundtrack for late-80s computing nostalgia.
+
+- [Poolsuite](https://poolsuite.net/) 🎵🎮📱 - Retro poolside music player with a sun-drenched VHS-era aesthetic, curated summer playlists, and a vintage TV interface for immersive seasonal nostalgia.
+
+- [Nightwave Plaza](https://plaza.one/) 🎵🎮📱 - Vaporwave radio station with a neon-drenched retro interface, 24/7 live broadcasts, and community-driven playlists for immersive digital nostalgia.
+
+- [TheOldNet](https://theoldnet.com/) 📝🎮📱 - Browse archived web pages from the 1990s using an original-era Netscape-like browser frame, complete with period-appropriate styling and authentic web navigation.
+
+- [OldWeb.Today](https://oldweb.today/) 🎬📝🎮📱 - Emulated historical browsers (Netscape, IE, Mosaic) that render archived web pages in their original visual context, with a time machine interface for selecting specific dates.
+
+- [SomaFM](https://somafm.com/) 🎵🎮📱 - Curated internet radio with retro-themed channels (Left Coast 70s, Underground 80s, Indie Pop Rocks) and genre-based browsing for serendipitous music discovery across decades.
+
+- [Google Arts & Culture Experiments](https://artsandculture.google.com/experiments) 🎬📝🎮📱🥽 - Interactive time-travel experiments blending AI with historical discovery, including Art Zoom, Art Selfie, and immersive cultural heritage explorations.
+
 ---
 
 ## Create Similar Timeline Explorers
@@ -113,6 +139,8 @@ These websites recreate past media, maps, and digital experiences through intera
 ### Map Integration Tools
 
 - [Leaflet.js](https://leafletjs.com/) 🔧📱 - Open-source JavaScript library for mobile-friendly interactive maps, perfect for historical map overlays.
+
+- [StoryMapJS](https://storymap.knightlab.com/) 🔧📱 - Free, open-source tool for creating interactive map narratives that combine timeline elements with geographic storytelling, from the Knight Lab team.
 
 - [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/api/) 🔧📱🥽 - Interactive maps with timeline controls, historical imagery, and data-driven styling for temporal data.
 
@@ -184,6 +212,12 @@ These websites recreate past media, maps, and digital experiences through intera
 
 - [National Archives](https://www.archives.gov/research) 📝🎮📱 - Interactive historical document explorer with timeline functionality and American cultural heritage materials.
 
+- [NASA's Eyes](https://eyes.nasa.gov/) 🎮📱🥽 - Interactive 3D visualization platform for exploring NASA missions, spacecraft trajectories, and celestial events with timeline controls and real-time data.
+
+- [Smithsonian Learning Lab](https://learninglab.si.edu/) 📝🎮📱 - Discover millions of Smithsonian digital resources with interactive timelines, curated collections, and exhibits spanning art, history, science, and culture.
+
+- [NYPL Digital Collections](https://digitalcollections.nypl.org/) 📝🎮📱 - Explore over 900,000 digitized items from the New York Public Library with interactive timeline browsing, map views, and curated exhibitions.
+
 ---
 
 ## Cultural Heritage Collections
@@ -195,6 +229,12 @@ These websites recreate past media, maps, and digital experiences through intera
 - [UNESCO World Heritage](https://whc.unesco.org/en/list) 📝🎮📱🥽 - Interactive exploration of historical sites with timeline features, map integration, and cultural significance.
 
 - [NASA Earth Observatory](https://earthobservatory.nasa.gov) 📝🎬🎮📱🥽 - Interactive historical climate data with timeline sliders, scientific overlays, and environmental history.
+
+- [World History Encyclopedia](https://www.worldhistory.org/) 📝🎮📱 - Interactive world history resource with timeline navigation, map integration, and encyclopedia entries spanning ancient to modern civilizations.
+
+- [Rijksmuseum Rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio) 📝🎮📱 - Browse the Rijksmuseum's collection of Dutch art and history with interactive timeline controls, date sliders, and era-based exploration of masterpieces.
+
+- [Art Institute of Chicago Collection](https://www.artic.edu/collection) 🎬📝🎮📱 - Browse over 400,000 artworks with interactive timeline controls, date range sliders, and era-specific curation spanning thousands of years.
 
 ---
 
