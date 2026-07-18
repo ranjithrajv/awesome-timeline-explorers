@@ -64,6 +64,12 @@ These websites recreate past media, maps, and digital experiences through intera
 
 - [American Panorama](https://dsl.richmond.edu/panorama/) 📝🎮📱 - Interactive historical atlas of the United States with time-lapse maps, layered demographic data, and visual deep dives into migration, redistricting, and environmental change.
 
+- [Ancient Earth Globe](https://dinosaurpictures.org/ancient-earth) 🎮📱🥽 - Rotating 3D globe with a deep-time slider that steps through 750 million years of plate tectonics, from early supercontinents like Pannotia and Pangea to the present-day map.
+
+- [PastVu](https://pastvu.com/) 🎬📝🎮📱 - Crowdsourced world map of historical photographs with a year slider and directional pins, revealing what any location looked like from the 1820s to 2000.
+
+- [ORBIS: The Stanford Geospatial Network Model of the Roman World](http://orbis.stanford.edu/) 🎮📱 - Interactive simulator of travel across the Roman Empire, modeling routes, time, and cost by road, sea, and river across changing seasons.
+
 ---
 
 ## Media Archives
@@ -81,6 +87,8 @@ These websites recreate past media, maps, and digital experiences through intera
 - [BBC Archive](https://www.bbc.co.uk/archive) 🎬🎵📝🎮📱 - Curated historical programming from the BBC with era-specific browsing by decade, featuring classic television, radio, and documentary content spanning the 1930s to today.
 
 - [National Film Board of Canada](https://www.nfb.ca/) 🎬📝🎮📱 - Thousands of Canadian documentaries, animations, and interactive stories with timeline exploration and curated collections spanning the 1940s to the present.
+
+- [Museum of Endangered Sounds](https://savethesounds.info/) 🎵🎮 - An interactive soundboard preserving the audio of obsolete technology, from dial-up modems and the Windows 95 startup to rotary phones and early mobile ringtones.
 
 ---
 
@@ -117,6 +125,12 @@ These websites recreate past media, maps, and digital experiences through intera
 - [SomaFM](https://somafm.com/) 🎵🎮📱 - Curated internet radio with retro-themed channels (Left Coast 70s, Underground 80s, Indie Pop Rocks) and genre-based browsing for serendipitous music discovery across decades.
 
 - [Google Arts & Culture Experiments](https://artsandculture.google.com/experiments) 🎬📝🎮📱🥽 - Interactive time-travel experiments blending AI with historical discovery, including Art Zoom, Art Selfie, and immersive cultural heritage explorations.
+
+- [Web Design Museum](https://www.webdesignmuseum.org/) 📝🎮📱 - A timeline archive of website designs and vintage UI patterns from 1991-2006, chronicling the visual evolution of the early web.
+
+- [Version Museum](https://www.versionmuseum.com/) 📝🎮📱 - Chronological screenshot galleries tracing the visual history of operating systems, apps, games, and websites from 1985-2020.
+
+- [Cameron's World](https://www.cameronsworld.net/) 🎬📝🎮📱 - An endlessly scrolling collage stitched from thousands of archived GeoCities pages (1994-2009), reviving the GIFs, graphics, and text of the unrefined early web.
 
 ---
 
@@ -217,6 +231,12 @@ These websites recreate past media, maps, and digital experiences through intera
 - [Smithsonian Learning Lab](https://learninglab.si.edu/) 📝🎮📱 - Discover millions of Smithsonian digital resources with interactive timelines, curated collections, and exhibits spanning art, history, science, and culture.
 
 - [NYPL Digital Collections](https://digitalcollections.nypl.org/) 📝🎮📱 - Explore over 900,000 digitized items from the New York Public Library with interactive timeline browsing, map views, and curated exhibitions.
+
+- [OldNYC](https://www.oldnyc.org/) 🎬📝🎮📱 - Maps around 40,000 New York Public Library historical street photographs onto a map of New York City, letting you click any intersection to see it as it looked from the 1870s-1970s.
+
+- [Historypin](https://www.historypin.org/) 🎬🎵📝🎮📱 - Crowdsourced historical photos, audio, and memories pinned to a world map with a date slider and present-day Street View overlays, spanning the 1800s to today.
+
+- [Chronicling America](https://www.loc.gov/chroniclingamerica/) 📝🎮📱 - Library of Congress archive of millions of digitized U.S. newspaper pages from 1690-1963, browsable by date, state, and title.
 
 ---
 
