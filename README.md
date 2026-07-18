@@ -26,17 +26,11 @@ These websites recreate past media, maps, and digital experiences through intera
 
 **Interactive television channel-surfing experiences that recreate authentic vintage programming and commercials.**
 
-- [MyRetroTVs Network](https://myretrotvs.com/) 🎬🎵🎮📱 - Comprehensive TV simulator spanning 1950s-2000s with decade-specific sites, authentic channel surfing, commercials, and period-appropriate content. Free access with no subscription required.
+- [MyRetroTVs Network](https://myretrotvs.com/) 🎬🎵🎮📱 - Comprehensive TV simulator spanning the 1950s-2000s with decade-specific sites ([80s](https://80s.myretrotvs.com/), [90s](https://90s.myretrotvs.com/), [00s](https://00s.myretrotvs.com/)), authentic channel surfing, genre filters, randomized channels, and period-appropriate commercials. Free access with no subscription required.
 
 - [RetroVision CRT Simulator](https://crt-tv.berrry.app/) 🎬🎵🎮 - Meticulously recreated 1985 CRT TV with functional power button, channel knob, volume control, and antenna adjustment for authentic vintage television experience.
 
 - [Frutiger Aero Archive Televisions](https://frutigeraeroarchive.org/televisions) 🎬🎵🎮📱 - Multiple vintage TV models (Panasonic, Sony, Philips) with VHS mode, customizable content, and era-specific interfaces for 2000s nostalgia.
-
-- [80s MyRetroTVs](https://80s.myretrotvs.com/) 🎬🎵🎮📱 - Dedicated 1980s television experience with randomized channels, time tracking, genre filters, and authentic commercials from the era.
-
-- [My90sTV](https://90s.myretrotvs.com/) 🎬🎵🎮📱 - Dedicated 1990s television experience with decade-specific programming, authentic commercials, and period-appropriate channel surfing through the era of dial-up and grunge.
-
-- [My2000sTV](https://y2k.myretrotvs.com/) 🎬🎵🎮📱 - Dedicated Y2K-era television experience capturing the transition from analog to digital with early 2000s programming, commercials, and turn-of-the-millennium culture.
 
 ---
 
@@ -70,6 +64,10 @@ These websites recreate past media, maps, and digital experiences through intera
 
 - [ORBIS: The Stanford Geospatial Network Model of the Roman World](http://orbis.stanford.edu/) 🎮📱 - Interactive simulator of travel across the Roman Empire, modeling routes, time, and cost by road, sea, and river across changing seasons.
 
+- [Running Reality](https://runningreality.org) 📝🎮📱 - World history map engine rendering political boundaries, battles, and cities for any date from 3000 BC to the present.
+
+- [Google Earth Timelapse](https://earthengine.google.com/timelapse/) 🎮🥽 - Interactive global satellite timelapse from 1984 to the present, with a time-slider for exploring four decades of planetary change.
+
 ---
 
 ## Media Archives
@@ -89,6 +87,12 @@ These websites recreate past media, maps, and digital experiences through intera
 - [National Film Board of Canada](https://www.nfb.ca/) 🎬📝🎮📱 - Thousands of Canadian documentaries, animations, and interactive stories with timeline exploration and curated collections spanning the 1940s to the present.
 
 - [Museum of Endangered Sounds](https://savethesounds.info/) 🎵🎮 - An interactive soundboard preserving the audio of obsolete technology, from dial-up modems and the Windows 95 startup to rotary phones and early mobile ringtones.
+
+- [Apollo in Real Time](https://apolloinrealtime.org) 🎬🎵📝🎮 - Real-time interactive replays of the Apollo 11 and Apollo 17 missions, with synchronized mission audio, transcripts, photographs, and film footage along the full mission timeline.
+
+- [UCSB Cylinder Audio Archive](https://cylinders.library.ucsb.edu) 🎵📝🎮 - Over 10,000 digitized wax cylinder recordings from the earliest era of commercial sound (1890s-1920s), browsable by genre and streamable for free.
+
+- [Australian Screen Online](https://aso.gov.au) 🎬🎵📝🎮 - Curated clips from Australia's audiovisual history with timeline browsing and curated collections from the 1890s to today.
 
 ---
 
@@ -110,7 +114,7 @@ These websites recreate past media, maps, and digital experiences through intera
 
 - [The Geocities Gallery](http://geocities.restorativland.org/) 🎬📝🎮📱 - A restored visual gallery of archived GeoCities sites, organized by neighborhood, that aims to preserve the look and feel of the early web.
 
-- [oocities.org](https://oocities.org/) 🎬📝🎮📱 - A mirror that hosts archived GeoCities content, allowing users to browse and experience websites from the now-defunct service.
+- [oocities.org](https://www.oocities.org/) 🎬📝🎮📱 - A mirror that hosts archived GeoCities content, allowing users to browse and experience websites from the now-defunct service.
 
 - [Poolside FM](https://poolside.fm/) 🎵🎮📱 - Synthwave radio station with a retro MacOS interface, complete with era-appropriate window management, system fonts, and a curated lo-fi soundtrack for late-80s computing nostalgia.
 
@@ -124,13 +128,21 @@ These websites recreate past media, maps, and digital experiences through intera
 
 - [SomaFM](https://somafm.com/) 🎵🎮📱 - Curated internet radio with retro-themed channels (Left Coast 70s, Underground 80s, Indie Pop Rocks) and genre-based browsing for serendipitous music discovery across decades.
 
-- [Google Arts & Culture Experiments](https://artsandculture.google.com/experiments) 🎬📝🎮📱🥽 - Interactive time-travel experiments blending AI with historical discovery, including Art Zoom, Art Selfie, and immersive cultural heritage explorations.
-
 - [Web Design Museum](https://www.webdesignmuseum.org/) 📝🎮📱 - A timeline archive of website designs and vintage UI patterns from 1991-2006, chronicling the visual evolution of the early web.
 
 - [Version Museum](https://www.versionmuseum.com/) 📝🎮📱 - Chronological screenshot galleries tracing the visual history of operating systems, apps, games, and websites from 1985-2020.
 
 - [Cameron's World](https://www.cameronsworld.net/) 🎬📝🎮📱 - An endlessly scrolling collage stitched from thousands of archived GeoCities pages (1994-2009), reviving the GIFs, graphics, and text of the unrefined early web.
+
+- [Infinite Mac](https://infinitemac.org) 🎮📱 - Classic Macintosh systems (System 1 through Mac OS 9) emulated entirely in the browser, with period-accurate software libraries to explore.
+
+- [PCjs Machines](https://www.pcjs.org) 🎮🔧 - Emulations of original IBM PCs and compatibles running in the browser, complete with historical operating systems and software.
+
+- [Gifcities](https://gifcities.org) 🎬🎮 - The Internet Archive's animated GIF search engine built from archived GeoCities pages, a playful portal into early web culture.
+
+- [Internet Artifacts](https://neal.fun/internet-artifacts) 🎮📱 - Interactive museum exhibit of internet history with explorable recreations of classic websites, apps, and digital moments.
+
+- [SpaceHey](https://spacehey.com) 🎮📱 - Fully functional recreation of the MySpace-era social network, with authentic 2000s interface and profile customization.
 
 ---
 
@@ -146,10 +158,6 @@ These websites recreate past media, maps, and digital experiences through intera
 
 - [Vis.js Timeline](https://visjs.github.io/vis-timeline/) 🔧📱 - Interactive timeline visualization library with grouping, stacking, and customization options for temporal data.
 
-- [Timeline K3](https://timeline.k3.cool/) 🔧📱 - Modern, lightweight timeline component library with smooth animations and responsive design.
-
-- [React-Timeline-Gantt](https://github.com/MaTeMaTuK/react-timeline-gantt) 🔧📱 - React component for creating interactive timeline and Gantt chart visualizations.
-
 ### Map Integration Tools
 
 - [Leaflet.js](https://leafletjs.com/) 🔧📱 - Open-source JavaScript library for mobile-friendly interactive maps, perfect for historical map overlays.
@@ -160,7 +168,7 @@ These websites recreate past media, maps, and digital experiences through intera
 
 - [OpenLayers](https://openlayers.org/) 🔧📱 - High-performance mapping library with extensive support for historical projections and time-based layers.
 
-- [TimeMap](https://github.com/timemap/timemap) 🔧 - Library for combining timelines with interactive maps using SIMILE Timeline and Google Maps.
+- [Allmaps](https://allmaps.org) 🔧 - Open-source toolkit for georeferencing, warping, and overlaying historical maps (IIIF-based) into web interfaces.
 
 ### Media Archive APIs & Data Sources
 
@@ -172,17 +180,23 @@ These websites recreate past media, maps, and digital experiences through intera
 
 - [Digital Public Library of America API](https://dp.la/info/developers/) 🔧 - API for accessing millions of items from America's libraries, archives, and museums.
 
-- [Google Arts & Culture API](https://developers.google.com/arts-and-culture/) 🔧🥽 - Access to cultural heritage collections and interactive historical artifacts.
-
 ### Vintage UI Components & Design
 
 - [CSS Libraries for Retro Design](https://github.com/topics/retro-css) 🔧 - Collection of CSS frameworks and components for creating authentic vintage interfaces.
 
-- [Windows93.js](https://github.com/katafrakt/windows93.js) 🔧 - JavaScript recreation of Windows93 UI components for nostalgic interfaces.
-
 - [CRT Effect Libraries](https://github.com/topics/crt-effect) 🔧 - Collection of libraries for adding authentic CRT TV monitor effects to web interfaces.
 
 - [Geocities-Style CSS](https://github.com/topics/geocities) 🔧 - CSS libraries and tools for recreating authentic early web aesthetics.
+
+### Emulation & Web Archiving Tools
+
+- [Webrecorder](https://webrecorder.net) 🔧 - Open-source tools (ArchiveWeb.page, ReplayWeb.page) for creating and replaying high-fidelity web archives.
+
+- [Ruffle](https://ruffle.rs) 🔧 - Flash Player emulator for preserving and playing legacy Flash content in modern browsers.
+
+- [EmulatorJS](https://emulatorjs.org) 🔧 - JavaScript emulation engine for running retro consoles and vintage computers in the browser.
+
+- [v86](https://copy.sh/v86/) 🔧 - x86 virtualization in JavaScript for emulating vintage PCs and operating systems in the browser.
 
 ### Data Visualization & Time-based UI
 
@@ -190,7 +204,7 @@ These websites recreate past media, maps, and digital experiences through intera
 
 - [Chart.js Time Scale](https://www.chartjs.org/docs/latest/axes/cartesian/time.html) 🔧 - Time series data visualization with flexible timeline controls.
 
-- [Slider.js](https://github.com/leongersen/noUiSlider) 🔧 - Advanced range slider library perfect for timeline controls and era selection.
+- [noUiSlider](https://github.com/leongersen/noUiSlider) 🔧 - Advanced range slider library perfect for timeline controls and era selection.
 
 - [Flatpickr](https://flatpickr.js.org/) 🔧 - Lightweight datetime picker for timeline interfaces and historical date selection.
 
@@ -238,6 +252,12 @@ These websites recreate past media, maps, and digital experiences through intera
 
 - [Chronicling America](https://www.loc.gov/chroniclingamerica/) 📝🎮📱 - Library of Congress archive of millions of digitized U.S. newspaper pages from 1690-1963, browsable by date, state, and title.
 
+- [BBC Genome](https://genome.ch.bbc.co.uk) 📝🎮 - Complete BBC Radio Times listings from 1923-2009, browsable and searchable as scanned magazine pages.
+
+- [World Radio History](https://www.worldradiohistory.com) 📝🎮 - Vast free archive of scanned broadcasting, music, and electronics magazines from the 1920s onward.
+
+- [Vintage Ad Browser](https://www.vintageadbrowser.com) 📝🎮 - Over 120,000 print advertisements browsable by decade, from the 1800s through the 2000s.
+
 ---
 
 ## Cultural Heritage Collections
@@ -255,6 +275,12 @@ These websites recreate past media, maps, and digital experiences through intera
 - [Rijksmuseum Rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio) 📝🎮📱 - Browse the Rijksmuseum's collection of Dutch art and history with interactive timeline controls, date sliders, and era-based exploration of masterpieces.
 
 - [Art Institute of Chicago Collection](https://www.artic.edu/collection) 🎬📝🎮📱 - Browse over 400,000 artworks with interactive timeline controls, date range sliders, and era-specific curation spanning thousands of years.
+
+- [Europeana](https://www.europeana.eu) 📝🎮 - Portal to millions of digitized items from European museums, libraries, and archives, with era-based exploration and themed collections.
+
+- [Flickr Commons](https://www.flickr.com/commons) 📝🎮 - Public photography archives from over 100 institutions worldwide, browsable by institution and era.
+
+- [Wellcome Collection](https://wellcomecollection.org) 📝🎮 - Interactive exploration of the history of health and medicine through digitized collections, stories, and exhibitions.
 
 ---
 
