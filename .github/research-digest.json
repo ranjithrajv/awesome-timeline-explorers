@@ -1,0 +1,39 @@
+{
+  "list_description": "Awesome Timeline Explorers curates tools for building and exploring timelines: interactive timeline libraries and apps, chronology visualizations, historical data explorers, event-mapping tools, and time-based storytelling frameworks.",
+  "keywords": ["timeline", "chronology", "time visualization", "historical events", "temporal data"],
+
+  "days_back": 14,
+  "max_llm_candidates": 25,
+  "max_per_source": 10,
+  "per_source_caps": { "Reddit": 6, "RSS": 8 },
+  "source_weights": { "RSS": 0.9 },
+  "half_life_days": 21,
+  "default_section": "Specialized Archives",
+
+  "hn_queries": ["interactive timeline", "timeline visualization", "timeline tool", "history visualization"],
+  "min_hn_points": 5,
+
+  "github_queries": ["interactive timeline library", "timeline visualization", "chronology visualization"],
+  "github_topics": ["timeline", "data-visualization", "chronology", "timeline-chart"],
+  "min_github_stars": 5,
+
+  "reddit_subreddits": ["DataViz", "datavisualization", "dataisbeautiful"],
+
+  "lobsters_tags": ["visualization"],
+  "min_lobsters_score": 5,
+
+  "arxiv_queries": ["all:\"timeline visualization\""],
+
+  "mastodon_instances": ["fosstodon.org"],
+  "mastodon_tags": ["dataviz"],
+
+  "bluesky_queries": ["timeline visualization", "data visualization"],
+
+  "rss_feeds": [
+    "https://flowingdata.com/feed/",
+    "https://nightingaledvs.com/feed/",
+    "https://blog.datawrapper.de/feed/"
+  ],
+
+  "producthunt": true
+}
