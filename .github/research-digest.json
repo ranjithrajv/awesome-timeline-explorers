@@ -19,8 +19,6 @@
 
   "reddit_subreddits": ["DataViz", "datavisualization", "dataisbeautiful"],
 
-  "lobsters_tags": ["visualization"],
-  "min_lobsters_score": 5,
 
   "arxiv_queries": ["all:\"timeline visualization\""],
 
@@ -30,6 +28,7 @@
   "bluesky_queries": ["timeline visualization", "data visualization"],
 
   "rss_feeds": [
+    "https://news.google.com/rss/search?q=%22interactive+timeline%22+OR+%22timeline+visualization%22&hl=en-US&gl=US&ceid=US:en",
     "https://flowingdata.com/feed/",
     "https://nightingaledvs.com/feed/",
     "https://blog.datawrapper.de/feed/"
