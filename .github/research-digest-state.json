@@ -27,6 +27,34 @@
     "times_seen": 1,
     "title": "Diagram/Visualization (Timeline): Presence of Ukrainian unmanned aerial vehicles (UAVs) in the airspace of the aggressor"
   },
+  "https://bsky.app/profile/insideukraine.bsky.social/post/3mygdh65sjc2f": {
+    "first_seen": "2026-10-26",
+    "last_score": 5.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "Diagram/Visualization (Timeline): Presence of Ukrainian unmanned aerial vehicles (UAVs) in the airspace of the aggressor"
+  },
+  "https://bsky.app/profile/insideukraine.bsky.social/post/3mynx3hbxbk2l": {
+    "first_seen": "2026-10-26",
+    "last_score": 20.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "Diagram/Visualization (Timeline): Presence of Ukrainian drones in the airspace of the aggressor country and occupied reg"
+  },
+  "https://bsky.app/profile/insideukraine.bsky.social/post/3mynxnfjyi22l": {
+    "first_seen": "2026-10-26",
+    "last_score": 20.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "Diagram/Visualization (Timeline): Presence of Ukrainian unmanned aerial vehicles (UAVs) in the airspace of the aggressor"
+  },
+  "https://bsky.app/profile/partijgedrag.be/post/3mymv7am7pk2r": {
+    "first_seen": "2026-10-26",
+    "last_score": 13.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "We are using it for a timeline visualization of Belgian parliamentary dossiers! Huge improvement to what we had before. "
+  },
   "https://bsky.app/profile/the-hedgehog.bsky.social/post/3mx5z5mge622f": {
     "first_seen": "2026-10-19",
     "last_score": 16.0,
@@ -69,6 +97,41 @@
     "times_seen": 1,
     "title": "\"Diagram/Visualization (Timeline): Presence of Ukrainian unmanned aerial vehicles (UAVs) in the airspace of the aggresso"
   },
+  "https://bsky.app/profile/the-hedgehog.bsky.social/post/3mydodgc3fc2s": {
+    "first_seen": "2026-10-26",
+    "last_score": 24.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "\"Diagram/Visualization (Timeline): Presence of Ukrainian drones in the airspace of the aggressor country and occupied re"
+  },
+  "https://bsky.app/profile/the-hedgehog.bsky.social/post/3mynu4dmpec27": {
+    "first_seen": "2026-10-26",
+    "last_score": 24.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "\"Diagram/Visualization (Timeline): Presence of Ukrainian unmanned aerial vehicles (UAVs) in the airspace of the aggresso"
+  },
+  "https://bsky.app/profile/thismagazine.bsky.social/post/3mxw4butx3k2a": {
+    "first_seen": "2026-10-26",
+    "last_score": 5.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "This Magazine is looking for pitches for our front-of-book slugs: Mapping Canada, By the Numbers, and Timeline. Have an "
+  },
+  "https://bsky.app/profile/thismagazine.bsky.social/post/3myabbixlfs2z": {
+    "first_seen": "2026-10-26",
+    "last_score": 2.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "Reminder for writers! Have an idea that lends itself to a map, data visualization or timeline? We need it for our front-"
+  },
+  "https://github.com/academic/awesome-datascience": {
+    "first_seen": "2026-10-26",
+    "last_score": 3024.1,
+    "status": "new",
+    "times_seen": 1,
+    "title": "academic/awesome-datascience"
+  },
   "https://github.com/apache/echarts": {
     "first_seen": "2026-10-19",
     "last_score": 6754.5,
@@ -97,6 +160,27 @@
     "times_seen": 1,
     "title": "d3/d3"
   },
+  "https://github.com/dataease/dataease": {
+    "first_seen": "2026-10-26",
+    "last_score": 2463.7,
+    "status": "new",
+    "times_seen": 1,
+    "title": "dataease/dataease"
+  },
+  "https://github.com/directus/directus": {
+    "first_seen": "2026-10-26",
+    "last_score": 3863.7,
+    "status": "new",
+    "times_seen": 1,
+    "title": "directus/directus"
+  },
+  "https://github.com/gradio-app/gradio": {
+    "first_seen": "2026-10-26",
+    "last_score": 4389.5,
+    "status": "new",
+    "times_seen": 1,
+    "title": "gradio-app/gradio"
+  },
   "https://github.com/grafana/grafana": {
     "first_seen": "2026-10-19",
     "last_score": 7737.0,
@@ -104,12 +188,54 @@
     "times_seen": 1,
     "title": "grafana/grafana"
   },
+  "https://github.com/metabase/metabase": {
+    "first_seen": "2026-10-26",
+    "last_score": 4984.9,
+    "status": "new",
+    "times_seen": 1,
+    "title": "metabase/metabase"
+  },
+  "https://github.com/microsoft/Data-Science-For-Beginners": {
+    "first_seen": "2026-10-26",
+    "last_score": 3770.8,
+    "status": "new",
+    "times_seen": 1,
+    "title": "microsoft/Data-Science-For-Beginners"
+  },
   "https://github.com/netdata/netdata": {
     "first_seen": "2026-10-19",
     "last_score": 8102.6,
     "status": "new",
     "times_seen": 1,
     "title": "netdata/netdata"
+  },
+  "https://github.com/pixijs/pixijs": {
+    "first_seen": "2026-10-26",
+    "last_score": 4849.5,
+    "status": "new",
+    "times_seen": 1,
+    "title": "pixijs/pixijs"
+  },
+  "https://github.com/plotly/dash": {
+    "first_seen": "2026-10-26",
+    "last_score": 2447.1,
+    "status": "new",
+    "times_seen": 1,
+    "title": "plotly/dash"
+  },
+  "https://github.com/reflex-dev/reflex": {
+    "first_seen": "2026-10-26",
+    "last_score": 2897.8,
+    "status": "new",
+    "times_seen": 1,
+    "title": "reflex-dev/reflex"
+  },
+  "https://github.com/streamlit/streamlit": {
+    "first_seen": "2026-10-26",
+    "last_score": 4612.8,
+    "status": "new",
+    "times_seen": 1,
+    "title": "streamlit/streamlit"
   },
   "https://github.com/usememos/memos": {
     "first_seen": "2026-10-19",
@@ -125,6 +251,27 @@
     "times_seen": 1,
     "title": "The history of LIV Golf: An interactive timeline - Golf Digest"
   },
+  "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVTmtLYXN3a2hSOWZNM1ZOSXBSWlc0M0ZraXZfYXlCZUJFZmVjUnEzb3hNb1M2bnpTNFhYd0JOSmc3VFlxYVpqc2tqLXIyY2hZSzNLWnR6S2ZHQkU5TXc?oc=5": {
+    "first_seen": "2026-10-26",
+    "last_score": 4.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "Jerome Powell is stepping down as Fed chair. Explore his tenure with our interactive timeline - Inman Real Estate News"
+  },
+  "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWVXZPTS11TDRHLUEzWHI3Yy1EYWJ4b0tkTUE1a09FOHVYYTViRC1hT2RybDNNYjEzZWhveWN3LXZWR2djWGpDc2JIbEwzMW9XOXN4d0t2ekxnWUxtanJYQV9Xa2VWeDNiMkJwS25B?oc=5": {
+    "first_seen": "2026-10-26",
+    "last_score": 4.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "It\u2019s about time: bring history to life with interactive timelines \ud83d\udd70\ufe0f - Flourish"
+  },
+  "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yd3o1QWxtVkNQeTRRbk1zaldqa1Vrc0RjM0dGdFkzZFBHcUd5XzFiR2xFX1lXRU5oMFF4ekVGd2Jqbkt5ZzhvMndsUGhTcnhTUzVYbU5VNHpPWWFGNFVKaUM5cGkxZGFKSnBQdXFmcUQ1T21heWc?oc=5": {
+    "first_seen": "2026-10-26",
+    "last_score": 4.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "Svetlana Mojsov: Interactive timeline - The Rockefeller University"
+  },
   "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BeWpqaUpNTXIxd3pZM0p0OU5jaWNnRVhnZ2p0Q2szc3FUSmZwT1ZRandjaW9KQlZWQi14NW05dlA5MndWVzBUUEpOMXROYnE5VkJhVDNLR2hQZXM1VVppYnQwR0FRYUxmZjVOR2lRckJJZEw5eGc?oc=5": {
     "first_seen": "2026-10-19",
     "last_score": 4.0,
@@ -139,12 +286,40 @@
     "times_seen": 1,
     "title": "Every iPad Ever Made, in One Interactive Timeline - Gagadget.com"
   },
+  "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNHNSbTd3WDA4em9MWGt0Qnk3Mmpvd0lpa3hrcHBJQm1yaUkxSE5ZOUViNDNtTUs1ejRMTzVyRHVlcXF5N19WR3k4Wm4zTUdUVmFPSnhPek5BMmRVRG9BOTA1QUo2TXRnS1EtT2g3aVlJaXQtWTNsUExQYTc1bmVvVkZyM04wWFVuUHhmTg?oc=5": {
+    "first_seen": "2026-10-26",
+    "last_score": 4.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "Timeline Visualization Uncovers Gaps in Archived Tsunami Water Level Data - Frontiers"
+  },
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN1NTak5yZzdEOENVM3ViSHpLaWctYWZMajFGaTdXSjNjNzBOU05qemhLbWFyZlFIU00wQ1l5cjNYT2ZaS3NYUVNzQVFDdUtMNWMzdmRhZ000ODh2ZkN6aWdlNWpLYm5YNHRKMEYtMTVaNFJ5OFk5Z3dfcV9wZFZhbG9Od2I3QzR6SlViUVl0djExQQ?oc=5": {
+    "first_seen": "2026-10-26",
+    "last_score": 4.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "Syria\u2019s revolution: An interactive timeline one year after Assad - The New Arab"
+  },
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMzFnOTNFNWRDMWhtaFhxYTdzeHZYcEpBN2loQm4wcVR6N1Y4TTVlcjRoVlpqbWJsY0VBWWhvMGFUYnpBUXNrUVM2Z0dWdllyS1pKRjVybEJYSXpPbE9fUEVvdUZIZ1NVVnBMcUN3VW1Kd3RaSEczLWEzVS1lVnVaanNDU010eTd5ckNXT3hyT25SZw?oc=5": {
+    "first_seen": "2026-10-26",
+    "last_score": 4.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "New Interactive Timeline Brings EMS History to Life - JEMS.com"
+  },
   "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeDMxc2pBMWREZTVaeEdQd19NdkE2RTN2QVZrYWZ1aTRURkpVWGtjLVlpN3V6cFgxbDIxcHBHUEFFd0Z6TlRKRE9LT0lfYXdvREJHN2d4dFQxSmhSc3ppN1NSTldJdzNta1JELXFGUjY0VktRNnlJU3EzOEt3TzRzNU95SkYxUWRZeXhZQ1ZQeDkzWXM?oc=5": {
     "first_seen": "2026-10-19",
     "last_score": 4.0,
     "status": "new",
     "times_seen": 1,
     "title": "Murdaugh Murders: Interactive Timeline of Final Hours - FOX Carolina News"
+  },
+  "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV0x4UzBWOGZMUEU0czI3MmtNcVU1ZHNydjF6ODFJdmJxc1BfSE9ZM2kwdUlGLXNmRDkyTFpXdVBCWENfeTdISnAxNVFLWTNBR0tLckJGa3FfQjNIOTFZZS16X3NXeC1lWllqZlNDUjh1VndKZHNDSTVLSzhMYzFuX1pZTkl0VnpPa3FJT3QyWWpEYmdsM0ZB?oc=5": {
+    "first_seen": "2026-10-26",
+    "last_score": 4.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "Interactive Timeline - Federal Reserve (.gov)"
   },
   "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNGU3S2NvWk5XVnNNZDVoOXZLVG1kNlZuVE10YmIyLWRCTUhvQWNQY0xFTUs5QkZiY29HTDMxSWFFUHJ4M1JhS1A0c1BWODVTTmRUd1ROT2FkQ3ktZXJPbDF3a0Z3OHpLcUpfRXVIQWdXeHN2VTAyd3NiTU5WMnRhWnBhdERYNUlKOUt1YVd4WjU4QUN3S281bA?oc=5": {
     "first_seen": "2026-10-19",
