@@ -1,4 +1,18 @@
 {
+  "https://bsky.app/profile/byteseu.bsky.social/post/3mzncbnmrkr2l": {
+    "first_seen": "2026-11-09",
+    "last_score": 0.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "Iran War passes 8-month mark. Here\u2019s a timeline of major events https://www.byteseu.com/2501896/ Data Visualization Jour"
+  },
+  "https://bsky.app/profile/byteseu.bsky.social/post/3mznccdakad24": {
+    "first_seen": "2026-11-09",
+    "last_score": 0.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "Iran War passes 8-month mark. Here\u2019s a timeline of major events https://www.byteseu.com/2501886/ Data Visualization Jour"
+  },
   "https://bsky.app/profile/insideukraine.bsky.social/post/3mx667octq22s": {
     "first_seen": "2026-10-19",
     "last_score": 38.0,
@@ -90,12 +104,40 @@
     "times_seen": 1,
     "title": "Diagram/Visualization (Timeline): Presence of Ukrainian UAVs in the airspace of the aggressor country and occupied regio"
   },
+  "https://bsky.app/profile/insideukraine.bsky.social/post/3mzhbiu3ufs2b": {
+    "first_seen": "2026-11-09",
+    "last_score": 72.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "Diagram/Visualization (Timeline): Presence of Ukrainian drones in the airspace of the aggressor country and occupied reg"
+  },
+  "https://bsky.app/profile/insideukraine.bsky.social/post/3mzjrqcdjjc2u": {
+    "first_seen": "2026-11-09",
+    "last_score": 48.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "Diagram/Visualization (Timeline): Presence of Ukrainian unmanned aerial vehicles (UAVs) in the airspace of the aggressor"
+  },
+  "https://bsky.app/profile/insideukraine.bsky.social/post/3mzoz2ko4tk2a": {
+    "first_seen": "2026-11-09",
+    "last_score": 32.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "Diagram/Visualization (timeline): Presence of Ukrainian unmanned aerial vehicles (UAVs) in the airspace of the aggressor"
+  },
   "https://bsky.app/profile/kautious.com/post/3mzddbt3qhy25": {
     "first_seen": "2026-11-02",
     "last_score": 0.0,
     "status": "new",
     "times_seen": 1,
     "title": "Tesla Roadster\u2019s timeline remains uncertain after a claimed October 2026 demonstration. Announced in 2017 with a 2020 ta"
+  },
+  "https://bsky.app/profile/kilomonster.bsky.social/post/3mzqio6bbb22z": {
+    "first_seen": "2026-11-09",
+    "last_score": 12.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "So. I wanna try this StoryLine system in Obsidian because it's got a timeline and arc visualization that would help me o"
   },
   "https://bsky.app/profile/nilo.bsky.social/post/3myzbl3uwg226": {
     "first_seen": "2026-11-02",
@@ -181,6 +223,13 @@
     "times_seen": 1,
     "title": "\"Diagram/Visualization (Timeline): Presence of Ukrainian drones in the airspace of the aggressor country and occupied re"
   },
+  "https://bsky.app/profile/the-hedgehog.bsky.social/post/3mzjffdcyy32m": {
+    "first_seen": "2026-11-09",
+    "last_score": 26.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "\"Diagram/Visualization (Timeline): Presence of Ukrainian drones in the airspace of the aggressor country and occupied re"
+  },
   "https://bsky.app/profile/thismagazine.bsky.social/post/3mxw4butx3k2a": {
     "first_seen": "2026-10-26",
     "last_score": 5.0,
@@ -194,6 +243,20 @@
     "status": "new",
     "times_seen": 1,
     "title": "Reminder for writers! Have an idea that lends itself to a map, data visualization or timeline? We need it for our front-"
+  },
+  "https://bsky.app/profile/undercodenews.bsky.social/post/3mz2lt7b6pl2s": {
+    "first_seen": "2026-11-09",
+    "last_score": 0.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "Radial Timeline 770 Just Turned Its Timeline Into a More Powerful Writing Workspace + Video A major upgrade makes Radial"
+  },
+  "https://fosstodon.org/@nrennie/117587483683026543": {
+    "first_seen": "2026-11-09",
+    "last_score": 3.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "This week's # TidyTuesday data is all about how powerful different fictional characters are \ud83e\ude84 I made an interactive time"
   },
   "https://github.com/AhmadHassan-BTed/Jantt": {
     "first_seen": "2026-11-02",
@@ -230,6 +293,13 @@
     "times_seen": 1,
     "title": "academic/awesome-datascience"
   },
+  "https://github.com/alyssaxuu/motionity": {
+    "first_seen": "2026-11-09",
+    "last_score": 414.7,
+    "status": "new",
+    "times_seen": 1,
+    "title": "alyssaxuu/motionity"
+  },
   "https://github.com/apache/echarts": {
     "first_seen": "2026-10-19",
     "last_score": 6754.5,
@@ -251,6 +321,13 @@
     "times_seen": 1,
     "title": "cathrynlavery/diagram-design"
   },
+  "https://github.com/cheeaun/life": {
+    "first_seen": "2026-11-09",
+    "last_score": 290.1,
+    "status": "new",
+    "times_seen": 1,
+    "title": "cheeaun/life"
+  },
   "https://github.com/d3/d3": {
     "first_seen": "2026-10-19",
     "last_score": 11376.7,
@@ -265,12 +342,26 @@
     "times_seen": 1,
     "title": "dataease/dataease"
   },
+  "https://github.com/daybrush/scenejs": {
+    "first_seen": "2026-11-09",
+    "last_score": 278.5,
+    "status": "new",
+    "times_seen": 1,
+    "title": "daybrush/scenejs"
+  },
   "https://github.com/directus/directus": {
     "first_seen": "2026-10-26",
     "last_score": 3863.7,
     "status": "new",
     "times_seen": 1,
     "title": "directus/directus"
+  },
+  "https://github.com/google/timesketch": {
+    "first_seen": "2026-11-09",
+    "last_score": 344.6,
+    "status": "new",
+    "times_seen": 1,
+    "title": "google/timesketch"
   },
   "https://github.com/gradio-app/gradio": {
     "first_seen": "2026-10-26",
@@ -292,6 +383,20 @@
     "status": "new",
     "times_seen": 1,
     "title": "lukasmasuch/best-of-ml-python"
+  },
+  "https://github.com/marimo-team/marimo": {
+    "first_seen": "2026-11-09",
+    "last_score": 2348.3,
+    "status": "new",
+    "times_seen": 1,
+    "title": "marimo-team/marimo"
+  },
+  "https://github.com/mark-when/markwhen": {
+    "first_seen": "2026-11-09",
+    "last_score": 488.1,
+    "status": "new",
+    "times_seen": 1,
+    "title": "mark-when/markwhen"
   },
   "https://github.com/matplotlib/matplotlib": {
     "first_seen": "2026-11-02",
@@ -328,6 +433,13 @@
     "times_seen": 1,
     "title": "netdata/netdata"
   },
+  "https://github.com/neuronetio/gantt-schedule-timeline-calendar": {
+    "first_seen": "2026-11-09",
+    "last_score": 364.3,
+    "status": "new",
+    "times_seen": 1,
+    "title": "neuronetio/gantt-schedule-timeline-calendar"
+  },
   "https://github.com/opf/openproject": {
     "first_seen": "2026-11-02",
     "last_score": 1693.0,
@@ -348,6 +460,13 @@
     "status": "new",
     "times_seen": 1,
     "title": "plotly/dash"
+  },
+  "https://github.com/prabhuignoto/react-chrono": {
+    "first_seen": "2026-11-09",
+    "last_score": 420.4,
+    "status": "new",
+    "times_seen": 1,
+    "title": "prabhuignoto/react-chrono"
   },
   "https://github.com/reflex-dev/reflex": {
     "first_seen": "2026-10-26",
@@ -370,6 +489,13 @@
     "times_seen": 1,
     "title": "streamlit/streamlit"
   },
+  "https://github.com/timelinize/timelinize": {
+    "first_seen": "2026-11-09",
+    "last_score": 370.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "timelinize/timelinize"
+  },
   "https://github.com/usememos/memos": {
     "first_seen": "2026-10-19",
     "last_score": 6391.3,
@@ -384,12 +510,33 @@
     "times_seen": 1,
     "title": "vanna-ai/vanna"
   },
+  "https://github.com/vipulasri/Timeline-View": {
+    "first_seen": "2026-11-09",
+    "last_score": 388.7,
+    "status": "new",
+    "times_seen": 1,
+    "title": "vipulasri/Timeline-View"
+  },
   "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNSXBUYnBVckcyYWtTeDB5cVJnMTVjNDZmc3hvYmlzU0g2bEVjNjlVQkZWZDVkQkU3VnNJU3d5Y1hWNEJGcW5RaGxMSkxzMmRWR2lEMkI5MFg2c1kxRGVpRDIwVDBNZ0l3enAtcWV2S1otbldTWl9INnhVNDM1SWNyU0VpNzJOSk5HMGlOQVVRZ2NrallnY25Yak1uRV9EV0w5M243SDBoamlPOGR0MHJ1WW0wcl9CdTdrd1hPVVFJM2Y0WDcxaGRMaWNrVXlwVUpJaERZNGY5ZkY5QmY0dnZySHZnckp6V0szaEcxUmhJLU9tSF85WGRLWl9Nb0RaWXJwSTFBaVpDUnFxWndpaUFTYUtnTFJ0S0d6QS1hYjdVMDlHOUFwMXkxWlF2TzFzRnFvNXlvUVFyU29vcHNWeEpxcVctelpMRWdSenZHTGozM2c?oc=5": {
     "first_seen": "2026-11-02",
     "last_score": 4.0,
     "status": "new",
     "times_seen": 1,
     "title": "Gallery of Travel Through History with this Interactive Timeline of Chicago's Tallest Buildings - 12 - ArchDaily"
+  },
+  "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNWnJoX3AzT2J6V2lGRVR3TkRCbkpYTVJqd284czZ5VHA3M3FldGhjTmN3MUh2eWhUb1AxOGZuQWs1dkxOTm9PQ1FyZ3ktWTRaZDAzbktHMlFSSzVwXzdvMXJSWGxSUkx5c1ZSTDJZaHpBbTVIOWUwOFhUOWtDYzczRTZfRkVxNV9VUTZoX0k2Rmx1bHRodEVKN3Jpbmt1STQ1SlZKODIteXBWV1JtR0prUFRveGpmTHZBcWM0bjV5VlZmcjNfTzhmWHNvRVJ5WXlhN0JPd3F4U2lfOU5pMDFieU53RVYxNGJkQ0JBQ0xmTnVhSENNTUxDdmkxUDE2WnhoSFUwdUpvVklVUVd0dlRLa0l2c0F2WmtZUXAtTmlWSWVTdU5VVzRRY0FsY29DQWtaRmJoQVZyOVlhRGh0N1Uyem1XOUdaeGVhNnFIc0gyMHE?oc=5": {
+    "first_seen": "2026-11-09",
+    "last_score": 4.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "Gallery of Travel Through History with this Interactive Timeline of Chicago's Tallest Buildings - 17 - ArchDaily"
+  },
+  "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQMWYzbGVmeUhBUHd1TzFMRElfem5JMGRXQU5Vd3VRUHRVajFUeGNaU2ltcjhnTEJhNHhzV2JrV0EzbENSVC10ajBWSzBlM3hzYXZoSVdjOGZteGIwS2xfNVZWMGxIbmhkclAwVzYtM1FWVGRYTEVQaklNbmpTdk92eGlnVWFjOEY5NFl5ell4MHRkamlCOXRzSTgydHZqcmRZMExVSWFpTzd2Q1pFc0hWbzVMRFpOd0RzRVpfT3FSZVc4X2hnN1dIQ2dxWXpjdVhzU01IVEdVVmcwVjA4S0RLQjN5cUdLbWJwand4eXdEb3lRQ2sxaEpVc3lqUnlXbXJwV2xBSmNOR25IUTRVajgxSXdreFhOaWFlOVpzMTBKNTA5cXppMmh3c1FwOVVYcnpabVJtR2lMVWZXdm5LVENNajFnX0JYUjA2dDdic01YSGw?oc=5": {
+    "first_seen": "2026-11-09",
+    "last_score": 4.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "Gallery of Travel Through History with this Interactive Timeline of Chicago's Tallest Buildings - 8 - ArchDaily"
   },
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfVkZZXzJRcHZYMUM1TWVxQXFUcUFhcDlieDJtOUplMWp6RnhaSEplbXdWTkNwSjZpQmV2S3ZGMmpxLXBDRGNwS2NfMWlOaFVxUTh6NXdSQjYwV0llUkhz?oc=5": {
     "first_seen": "2026-10-19",
@@ -433,6 +580,13 @@
     "times_seen": 1,
     "title": "Apple's 20-Year iPhone Journey Visualized in One Interactive Timeline - BigGo Finance"
   },
+  "https://news.google.com/rss/articles/CBMieEFVX3lxTE15T1RKTWp0TXoxRlJMbThfTUs2NXN3eGdYTmtpUUJhMmFCelJEOHd2Zkd5UkY2dkIzc0ZKWWwyWVlNekVZNW41UGd4YWJ6TTdkZkNJZXhsTEVCeHV6Sno5RFNxR196N0F0SmgwMlpYT1hlQXlWeXVjaQ?oc=5": {
+    "first_seen": "2026-11-09",
+    "last_score": 4.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "Interactive Timeline | Slavery by Another Name - PBS"
+  },
   "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSDBKaG1mRDlXUVpVOHJxUUtPU3RRUGFRS3BuQTEzWXFmU2V2dlBsVEhvckNSRXM1aVM0aU8yNGs1aWVRaFdFeE5kV3plbll2amNHajJvZnRrd0hNeGR1aHhKNXBwczlEeXVwOFhoWVE0R05IT211WUVsT1FDbGc3ZHlR?oc=5": {
     "first_seen": "2026-11-02",
     "last_score": 4.0,
@@ -453,6 +607,13 @@
     "status": "new",
     "times_seen": 1,
     "title": "Timeline Visualization Uncovers Gaps in Archived Tsunami Water Level Data - Frontiers"
+  },
+  "https://news.google.com/rss/articles/CBMijwFBVV95cUxOREhNVnFzSFFLOHdTWmc5bFp2S2dvSzBfckpMNlFYcWxqSy1zbk1PLWRzVnRxVFpCNTZLd0x2aUhvRmRuWHFFNkVoR3drNExoYjRXMUdpUmdxbnNmcmxzQkM3QkRKMzRnTVdXWEJ5YUJzVkN1Y2dtUzN4bjNhOFJzUmoybGVIenAtSnZvbEYwcw?oc=5": {
+    "first_seen": "2026-11-09",
+    "last_score": 4.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "Interactive Timeline: Susan Smith investigation - FOX Carolina News"
   },
   "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN1NTak5yZzdEOENVM3ViSHpLaWctYWZMajFGaTdXSjNjNzBOU05qemhLbWFyZlFIU00wQ1l5cjNYT2ZaS3NYUVNzQVFDdUtMNWMzdmRhZ000ODh2ZkN6aWdlNWpLYm5YNHRKMEYtMTVaNFJ5OFk5Z3dfcV9wZFZhbG9Od2I3QzR6SlViUVl0djExQQ?oc=5": {
     "first_seen": "2026-10-26",
@@ -503,6 +664,13 @@
     "times_seen": 1,
     "title": "We launched the interactive timeline of Arda on elfenomeno.com - Elfenomeno.com"
   },
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY3NTWTQ1SkZ3Zl9XNGNHVjBxbkFHdjJ3UzQ5WDNUM3FReHNCUXhJLUpSVmRUSkRjQmgyMFlBczg3enJhSmI0anBQRktUcG9ubjlHZVI5WkJtMHFzYktlMmVUTXg1UkJRY1BPWmZiMVZQbERQaGpLSlpLbC1OSjdNQ3gyXy1ubGl0dkdsRXpxLU1WWVR1Qzk0WnRuTlhVeTNORnhKdzBFX0VwQQ?oc=5": {
+    "first_seen": "2026-11-09",
+    "last_score": 4.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "WWI Interactive Timeline and Map - American Battle Monuments Commission (ABMC) (.gov)"
+  },
   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUlQwVTlWNG42RGp3bVhaUXIwM21KLXQ0cUVIVHFOOENWTG1lVFBOVnI5SWNJY3lJMmYyT3k1S0RaWDdFM2h2VS05amZkcWdvUUl2UFgwSDFUb3VwRWs4alhkRV9kOVc5V2oxcmticjNRRkRyZVpWanh3Q0VKVWg4aDRKTDRKSVkzUmpWOGxVOVlZU0xzS2ZjdU1oVlZwUlBEZnN4RmRsYTl6N2REd0NreVlQTW9mM2dOUVoxeTFqMDNFb3M?oc=5": {
     "first_seen": "2026-11-02",
     "last_score": 4.0,
@@ -523,5 +691,12 @@
     "status": "new",
     "times_seen": 1,
     "title": "Beer Chronicles brings thousands of years of beer history together in one interactive timeline - British Guild of Beer W"
+  },
+  "https://tahaygun.github.io/pauseless": {
+    "first_seen": "2026-11-09",
+    "last_score": 6.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "Show HN: Pauseless \u2013 Free silence/filler-word remover from videos, on-browser"
   }
 }
