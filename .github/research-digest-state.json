@@ -125,6 +125,13 @@
     "times_seen": 1,
     "title": "Diagram/Visualization (timeline): Presence of Ukrainian unmanned aerial vehicles (UAVs) in the airspace of the aggressor"
   },
+  "https://bsky.app/profile/insideukraine.bsky.social/post/3n2filwajl22k": {
+    "first_seen": "2026-11-16",
+    "last_score": 27.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "Diagram/Visualization (Timeline): Presence of Ukrainian drones in the airspace of the aggressor country and occupied reg"
+  },
   "https://bsky.app/profile/kautious.com/post/3mzddbt3qhy25": {
     "first_seen": "2026-11-02",
     "last_score": 0.0,
@@ -152,6 +159,20 @@
     "status": "new",
     "times_seen": 1,
     "title": "We are using it for a timeline visualization of Belgian parliamentary dossiers! Huge improvement to what we had before. "
+  },
+  "https://bsky.app/profile/savascha.bsky.social/post/3n242gqewnk2q": {
+    "first_seen": "2026-11-16",
+    "last_score": 7.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "Someone who does data analysis and visualization: timeline of Rowling\u2019s TERF rhetoric timeline of the rise of anti-trans"
+  },
+  "https://bsky.app/profile/some-rss-feeds.bsky.social/post/3n26y42jayt22": {
+    "first_seen": "2026-11-16",
+    "last_score": 0.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "[some-subscribed-rss] New Post: Timeline of gambling addicts, by Nathan Yau https://flowingdata.com/2026/11/13/timeline-"
   },
   "https://bsky.app/profile/the-hedgehog.bsky.social/post/3mx5z5mge622f": {
     "first_seen": "2026-10-19",
@@ -230,6 +251,13 @@
     "times_seen": 1,
     "title": "\"Diagram/Visualization (Timeline): Presence of Ukrainian drones in the airspace of the aggressor country and occupied re"
   },
+  "https://bsky.app/profile/the-hedgehog.bsky.social/post/3mzyjrfzrdu22": {
+    "first_seen": "2026-11-16",
+    "last_score": 28.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "\"Diagram/Visualization (Timeline): Presence of Ukrainian unmanned aerial vehicles (UAVs) in the airspace of the aggresso"
+  },
   "https://bsky.app/profile/thismagazine.bsky.social/post/3mxw4butx3k2a": {
     "first_seen": "2026-10-26",
     "last_score": 5.0,
@@ -272,12 +300,26 @@
     "times_seen": 1,
     "title": "Freika/dawarich"
   },
+  "https://github.com/GjjvdBurg/labella.py": {
+    "first_seen": "2026-11-16",
+    "last_score": 6.7,
+    "status": "new",
+    "times_seen": 1,
+    "title": "GjjvdBurg/labella.py"
+  },
   "https://github.com/JerryZLiu/Dayflow": {
     "first_seen": "2026-11-02",
     "last_score": 736.8,
     "status": "new",
     "times_seen": 1,
     "title": "JerryZLiu/Dayflow"
+  },
+  "https://github.com/MiaoQichuan/new-litigation-visualization": {
+    "first_seen": "2026-11-16",
+    "last_score": 16.7,
+    "status": "new",
+    "times_seen": 1,
+    "title": "MiaoQichuan/new-litigation-visualization"
   },
   "https://github.com/RyanFitzgerald/devportfolio": {
     "first_seen": "2026-11-02",
@@ -349,6 +391,13 @@
     "times_seen": 1,
     "title": "daybrush/scenejs"
   },
+  "https://github.com/dedicatedcode/reitti": {
+    "first_seen": "2026-11-16",
+    "last_score": 271.8,
+    "status": "new",
+    "times_seen": 1,
+    "title": "dedicatedcode/reitti"
+  },
   "https://github.com/directus/directus": {
     "first_seen": "2026-10-26",
     "last_score": 3863.7,
@@ -377,6 +426,13 @@
     "times_seen": 1,
     "title": "grafana/grafana"
   },
+  "https://github.com/ilkeryilmaz/timelinejs": {
+    "first_seen": "2026-11-16",
+    "last_score": 88.3,
+    "status": "new",
+    "times_seen": 1,
+    "title": "ilkeryilmaz/timelinejs"
+  },
   "https://github.com/lukasmasuch/best-of-ml-python": {
     "first_seen": "2026-11-02",
     "last_score": 2385.4,
@@ -404,6 +460,13 @@
     "status": "new",
     "times_seen": 1,
     "title": "matplotlib/matplotlib"
+  },
+  "https://github.com/mesquidar/ForensicsTools": {
+    "first_seen": "2026-11-16",
+    "last_score": 263.2,
+    "status": "new",
+    "times_seen": 1,
+    "title": "mesquidar/ForensicsTools"
   },
   "https://github.com/metabase/metabase": {
     "first_seen": "2026-10-26",
@@ -475,12 +538,26 @@
     "times_seen": 1,
     "title": "reflex-dev/reflex"
   },
+  "https://github.com/shichunlei/flutter_app": {
+    "first_seen": "2026-11-16",
+    "last_score": 269.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "shichunlei/flutter_app"
+  },
   "https://github.com/sinaptik-ai/pandas-ai": {
     "first_seen": "2026-11-02",
     "last_score": 2392.5,
     "status": "new",
     "times_seen": 1,
     "title": "sinaptik-ai/pandas-ai"
+  },
+  "https://github.com/sreegjl/timelines": {
+    "first_seen": "2026-11-16",
+    "last_score": 24.6,
+    "status": "new",
+    "times_seen": 1,
+    "title": "sreegjl/timelines"
   },
   "https://github.com/streamlit/streamlit": {
     "first_seen": "2026-10-26",
@@ -510,12 +587,33 @@
     "times_seen": 1,
     "title": "vanna-ai/vanna"
   },
+  "https://github.com/vasturiano/timelines-chart": {
+    "first_seen": "2026-11-16",
+    "last_score": 62.9,
+    "status": "new",
+    "times_seen": 1,
+    "title": "vasturiano/timelines-chart"
+  },
   "https://github.com/vipulasri/Timeline-View": {
     "first_seen": "2026-11-09",
     "last_score": 388.7,
     "status": "new",
     "times_seen": 1,
     "title": "vipulasri/Timeline-View"
+  },
+  "https://github.com/visjs/vis-timeline": {
+    "first_seen": "2026-11-16",
+    "last_score": 258.3,
+    "status": "new",
+    "times_seen": 1,
+    "title": "visjs/vis-timeline"
+  },
+  "https://github.com/yotamberk/timeline-plus": {
+    "first_seen": "2026-11-16",
+    "last_score": 13.8,
+    "status": "new",
+    "times_seen": 1,
+    "title": "yotamberk/timeline-plus"
   },
   "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNSXBUYnBVckcyYWtTeDB5cVJnMTVjNDZmc3hvYmlzU0g2bEVjNjlVQkZWZDVkQkU3VnNJU3d5Y1hWNEJGcW5RaGxMSkxzMmRWR2lEMkI5MFg2c1kxRGVpRDIwVDBNZ0l3enAtcWV2S1otbldTWl9INnhVNDM1SWNyU0VpNzJOSk5HMGlOQVVRZ2NrallnY25Yak1uRV9EV0w5M243SDBoamlPOGR0MHJ1WW0wcl9CdTdrd1hPVVFJM2Y0WDcxaGRMaWNrVXlwVUpJaERZNGY5ZkY5QmY0dnZySHZnckp6V0szaEcxUmhJLU9tSF85WGRLWl9Nb0RaWXJwSTFBaVpDUnFxWndpaUFTYUtnTFJ0S0d6QS1hYjdVMDlHOUFwMXkxWlF2TzFzRnFvNXlvUVFyU29vcHNWeEpxcVctelpMRWdSenZHTGozM2c?oc=5": {
     "first_seen": "2026-11-02",
@@ -643,6 +741,13 @@
     "times_seen": 1,
     "title": "Murdaugh Murders: Interactive Timeline of Final Hours - FOX Carolina News"
   },
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWjU3Q2JRZkVsVXlXRmlvQTFnb2ZBaFJSNGN5ekdncFFIX01NNFNITWVxYmdBLXNDdnFyQWFoRjFDOWVNWkdYVUZnRXF0YTZEU0liRFJCYlZRaTFJVkJoNGxNVkJXX3cxSmhNLU9UWlFXaVJXb25VMnoya21OYWVyRGU3ekhoZnBkdm10c0I3VnB2VEllOVE?oc=5": {
+    "first_seen": "2026-11-16",
+    "last_score": 4.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "Interactive Timeline - Federal Reserve (.gov)"
+  },
   "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV0x4UzBWOGZMUEU0czI3MmtNcVU1ZHNydjF6ODFJdmJxc1BfSE9ZM2kwdUlGLXNmRDkyTFpXdVBCWENfeTdISnAxNVFLWTNBR0tLckJGa3FfQjNIOTFZZS16X3NXeC1lWllqZlNDUjh1VndKZHNDSTVLSzhMYzFuX1pZTkl0VnpPa3FJT3QyWWpEYmdsM0ZB?oc=5": {
     "first_seen": "2026-10-26",
     "last_score": 4.0,
@@ -657,6 +762,20 @@
     "times_seen": 1,
     "title": "Explore every iPad ever released in this interactive timeline - 9to5Mac"
   },
+  "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLVBIRUJhWU40QmJlRWU5eDdGVzVxRHdhekNaaUtQYzBCWWdZRDFmVWZ1b1hzOVA5blVNaExWZ2hhdldUaWxITDB5VDZKcmd5WFM4RHY4eFVxb1dWbmY1SHVYUW55alp6a1JCMGxIamVBbkNrLW5udDNSNklPOWwxd25FRFp1RHA2Z2FmUmRjeG1lQy1PTXBzYg?oc=5": {
+    "first_seen": "2026-11-16",
+    "last_score": 4.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "Rhinoceros ~ Interactive Timeline: Rhinos Past and Present | Nature - PBS"
+  },
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWHlCYXdwcXhULUwwbUhXaFhfemFFdUkwdTFmbkhqWXRlQVRDRlVuRFB1enUzWmItaU9ZY2pMNW90aTQwZkI0bjZrbTA2VDRCYXhOYjVkYkZFZllKakFmcWExbHQyVms3QkZHMVlnVVZIeTJJRzd5VERFLVN5SXQzT3ZvcnRUUFE5cG95ZFNyb2VFS2lwOEdqd25oMnk?oc=5": {
+    "first_seen": "2026-11-16",
+    "last_score": 4.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "Follow major platform developments with our interactive timeline - Columbia Journalism Review"
+  },
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ0JEZ3p2ZXY3M25WSlNyU1FHRTBuREpnSFQ5Vk5MbFJ5X1BpWTZmZGJTZDg4eFZvWVVWcjVhMER0SDB1SllBZjE0MWxkcms5QUlHQ1Q0Tk5vYlhMYk0tdFByanprZTlPNlZUampYTTZFUUJBOHAtd3A4LUNXaTRCc3dmNmkxalBRLXlnT2JVQ0hYUHVYcy00TkFVTnlNX1VQZ1dFYmc1Znhpdw?oc=5": {
     "first_seen": "2026-10-19",
     "last_score": 4.0,
@@ -670,6 +789,41 @@
     "status": "new",
     "times_seen": 1,
     "title": "WWI Interactive Timeline and Map - American Battle Monuments Commission (ABMC) (.gov)"
+  },
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR0M5Vk5adngwanlyb1RYcG9Mb1hNTmp6bTJlWjVSRUM2dWVGZ0g3dmlyQmRGaUk0Qzc5VXpFMjhlLTgzWXlxekluNHFWNEtRSkc0U0dOZ3gwWGFESnlaS2R3OFBFRGtJQlIwTGxCWUVBSWthWl9oQmM0Vm9vUjFZdUZGbEtzc0JJckFLcDBaOEVOaWZpZDYxcGJZcW9tbmN4Wi1raEM5TWdwZEJt?oc=5": {
+    "first_seen": "2026-11-16",
+    "last_score": 4.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "Clever Interactive Timeline Explains Avengers: Endgame Time-Traveling - Motion Picture Association"
+  },
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUFh4MkFkNnBKYXg0d1F6TjBGeFFBcjhKR0ItckxQVmhDME5sRFJaZE9zbzBGZEZ3dWhNZTgtcWRBOTNhbllXRXJtN0xuY2IzUlFlOUJ6eG1FaktqR2U3ZURfeXE2aTlPOFhDTlJycUtxSlEyNU9IRXoxSko4WDdDUERPYUJSWUpuNXJ0THNlLVdmbGc4ckx4ejV4Z0ZoR2drLTNMVmo0Q1lwenYxYXFVMw?oc=5": {
+    "first_seen": "2026-11-16",
+    "last_score": 4.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "Interactive timeline of all recorded CIA drone strikes - TBIJ"
+  },
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMXVfUmp3bURTTGgyYnZzUmN0eGV4VzBzWG4zV0t5VnZuRENYR1lSbUlkcmxGMmMzOE1WTGhIT1BRcEIwZWk2LWEyWVBDdy16eTlEamp3R3o4akJEdnp0eFRORURsRFQ0QXRJRUFXTWliX3M5LUY0dUFTV1M1MjJmWjdObHBZdG9lamN2UjFjS2FRT2VxMWducHlpbHpwZ25ndzdwWEFER2tuZjRRbk11S3JoRQ?oc=5": {
+    "first_seen": "2026-11-16",
+    "last_score": 4.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "Skyscraper Museum Reveals Interactive Timeline of the Tallest Buildings Throughout History - 6sqft"
+  },
+  "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdUUyRU1PWEtTcUY2MEE4dmlMTk9BQ2JOREZzZzZYVWl5Mk9TMnB0ZnhzS2M5dDljNVlUTFgxa2Z6MXR0SjhkNHk0UkVTYkJ0Rnh0RW9wV1d5b25PY1hOaTVob2NRTVE5UlRnOHdNWGlHTnN3T2tTSzNSbjFraXBwWFRlZnBIODVQNW8xNWZRWlFTUEdrcll2UGZHeE1NZjkxcjZITFdSZ210cFdsNVFHY1BveXpJZw?oc=5": {
+    "first_seen": "2026-11-16",
+    "last_score": 4.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "Interactive timeline: 10 years of drone strikes in Pakistan - TBIJ"
+  },
+  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV2kzQUZadDZYVWlybU95NmktUnhnSjhjaHJEcXRDUnhUejNMcTNfLTVXbHlxeXROSlk5dlNxLVZiVWdBMmwzd1ZJQVR5RjRJUXZrRG5faURjUzliRm4yenBHX00zNDlyM0pGNWFLa0plSnVrNngyMUZPcDdsUW80XzVvVVRXdUtTcEpyX1ZhM3lkN0FEbmtTRU1wVjlXRmlUTHBTRjlyWlBPYTdnV2pWeVNxZnRzd3FpeWZNOTFSZHJLOTQ?oc=5": {
+    "first_seen": "2026-11-16",
+    "last_score": 4.0,
+    "status": "new",
+    "times_seen": 1,
+    "title": "Interactive Timeline Celebrates History of the American Association for Cancer Research - American Association for Cance"
   },
   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUlQwVTlWNG42RGp3bVhaUXIwM21KLXQ0cUVIVHFOOENWTG1lVFBOVnI5SWNJY3lJMmYyT3k1S0RaWDdFM2h2VS05amZkcWdvUUl2UFgwSDFUb3VwRWs4alhkRV9kOVc5V2oxcmticjNRRkRyZVpWanh3Q0VKVWg4aDRKTDRKSVkzUmpWOGxVOVlZU0xzS2ZjdU1oVlZwUlBEZnN4RmRsYTl6N2REd0NreVlQTW9mM2dOUVoxeTFqMDNFb3M?oc=5": {
     "first_seen": "2026-11-02",
